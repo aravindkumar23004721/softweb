@@ -828,10 +828,9 @@ contact.html
 </body>
 ```
 ## OUTPUT:
-![alt text](<Screenshot 2024-05-06 012303.png>)
-![alt text](<Screenshot 2024-05-06 012555.png>)
-![alt text](<Screenshot 2024-05-06 015837.png>)
-![alt text](<Screenshot 2024-05-06 020815.png>)
-
+![alt text](home.jpg)
+![alt text](product.jpg)
+![alt text](people.jpg)
+![alt text](<WhatsApp Image 2024-05-06 at 14.11.10_7ccfd1ad.jpg>)
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
